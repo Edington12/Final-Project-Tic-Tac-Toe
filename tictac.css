@@ -1,0 +1,78 @@
+.moreinfo {
+  background-color: blue;
+  font: white;
+  color: white;
+  cursor: pointer;
+  font-style: italic;
+  font-weight: lighter;
+  margin-bottom: 50px;
+
+}
+.picture1 {
+  background-color: black;
+  border: 5px solid white;
+  padding: 2px;
+  margin: 2px;
+  margin-top: 4px;
+  height: 122px;
+  width: 122px;
+  
+}
+.picture2 {
+    background-color: black;
+    border: 5px solid white;
+    padding: 2px;
+    margin: 2px;
+    margin-left: 50px;
+    height: 122px;
+    width: 122px;
+
+}
+
+.picture3 {
+  background-color: black;
+  border: 5px solid white;
+  padding: 2px;
+  margin: 2px;
+  margin-top: -275px;
+  margin-left: 1000px;
+  height: 122px;
+  width: 122px;
+  
+}
+.picture4 {
+    background-color: black;
+    border: 5px solid white;
+    padding: 2px;
+    margin: 2px;
+    margin-left: 1050px;
+    height: 122px;
+    width: 122px;
+    
+}
+
+/*.button {
+  background-color: red;
+
+}*/
+
+/*.btn {
+  border: none;
+  color: white;
+  cursor: pointer;
+  padding: 8px 12px;
+  position: relative;
+  margin-top: 569px;
+  margin-bottom: 0px;
+  margin-right: 1%;
+  height: 50px;
+  float: right;
+  background: url("donate.html");
+
+}*/
+
+/*.moreinfo {
+  background-color: blue;
+  margin-bottom: 50px;
+
+}*/
